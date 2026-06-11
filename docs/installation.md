@@ -1,6 +1,7 @@
-# Getting Started with Death legion team
+# Getting Started with Legion Hyt JS
+**By Death legion team**
 
-Ready to build something fast? This guide will help you get Death legion team up and running on your machine in minutes.
+Ready to build something fast? This guide will help you get Legion Hyt JS up and running on your machine in minutes.
 
 ## Before You Start
 Make sure you have these tools ready:
@@ -8,7 +9,7 @@ Make sure you have these tools ready:
 - **Package Manager**: npm or Yarn (we recommend npm for the best experience).
 
 ## Creating Your Project
-To kick off a new Death legion team project, run this in your terminal:
+To kick off a new Legion Hyt JS project, run this in your terminal:
 
 ```bash
 npx create-legion-app my-app

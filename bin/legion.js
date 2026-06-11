@@ -9,10 +9,10 @@ const command = args[0] || 'dev';
 const viteBin = path.resolve(__dirname, '../node_modules/.bin/vite');
 
 if (command === 'dev') {
-  console.log('🚀 Starting Death legion team in development mode...');
+  console.log('🚀 Starting Legion Hyt JS in development mode...');
   spawn(viteBin, [], { stdio: 'inherit', shell: true });
 } else if (command === 'build') {
-  console.log('🏗️ Building Death legion team for production...');
+  console.log('🏗️ Building Legion Hyt JS for production...');
   spawn(viteBin, ['build'], { stdio: 'inherit', shell: true });
 } else if (command === 'preview') {
   console.log('👀 Previewing production build...');

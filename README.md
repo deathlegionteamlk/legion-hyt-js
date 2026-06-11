@@ -1,8 +1,9 @@
-# Death legion team
+# Legion Hyt JS
+**Built with ❤️ by the Death legion team**
 
-Death legion team is a high-performance, full-stack React framework built for developers who care about speed. We've swapped out slow, traditional JS tooling for a Rust-powered engine to give you near-instant build times and a development experience that actually keeps up with your thoughts.
+Legion Hyt JS is a high-performance, full-stack React framework built for developers who care about speed. We've swapped out slow, traditional JS tooling for a Rust-powered engine to give you near-instant build times and a development experience that actually keeps up with your thoughts.
 
-## Why Death legion team?
+## Why Legion Hyt JS?
 - **Built with Rust**: Under the hood, we use Rolldown and SWC. This means your builds aren't just fast—they're basically instant.
 - **Render Your Way**: Whether you need static pages for SEO (SSG), dynamic server-side rendering (SSR), or a snappy client-side app (CSR), we handle it all on a per-route basis.
 - **No More Routing Hassles**: Just drop a `.tsx` file into `src/routes` and you're live. No complex config files required.
@@ -37,6 +38,9 @@ npx legion build
 - `src/routes/`: This is where your pages and API endpoints live.
 - `src/components/`: Put your reusable React components here.
 - `legion.config.ts`: Tweak the framework settings to fit your project.
+
+## Team
+Proudly maintained by the **Death legion team**.
 
 ## License
 MIT

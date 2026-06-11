@@ -3,7 +3,7 @@ import React from 'react';
 export default function Home() {
   return (
     <div>
-      <h2>Welcome to Death legion team</h2>
+      <h2>Welcome to Legion Hyt JS</h2>
       <p>This is the home page, rendered using file-based routing.</p>
       <nav>
         <ul>

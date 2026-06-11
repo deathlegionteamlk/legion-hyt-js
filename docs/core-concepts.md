@@ -1,6 +1,7 @@
-# How Death legion team Works
+# How Legion Hyt JS Works
+**By Death legion team**
 
-We built Death legion team to solve the two biggest frustrations in web development: slow build times and rigid rendering patterns. Here’s a look at the core ideas that make this framework different.
+We built Legion Hyt JS to solve the two biggest frustrations in web development: slow build times and rigid rendering patterns. Here’s a look at the core ideas that make this framework different.
 
 ## Performance That Keeps Up With You
 Most frameworks slow down as your project grows. We took a different path by moving the heavy lifting to Rust.
@@ -8,7 +9,7 @@ Most frameworks slow down as your project grows. We took a different path by mov
 - **Smart Production Builds**: We don't just bundle your code; we optimize it. Automatic tree-shaking and code splitting ensure your users only download exactly what they need, resulting in lightning-fast load times.
 
 ## Rendering: Your Choice, Every Time
-You shouldn't have to pick one rendering strategy for your entire app. Death legion team lets you mix and match based on what each page needs.
+You shouldn't have to pick one rendering strategy for your entire app. Legion Hyt JS lets you mix and match based on what each page needs.
 
 ### Client-Side Rendering (CSR)
 This is the default. The browser handles the rendering, making it perfect for highly interactive dashboards or apps where you don't need to worry about SEO.
@@ -65,7 +66,7 @@ Forget about manually configuring routes. If you create a file in `src/routes`, 
 - `src/routes/profile/[username].tsx` becomes `/profile/:username`
 
 ## Full-Stack Without the Friction
-Death legion team bridges the gap between your frontend and backend.
+Legion Hyt JS bridges the gap between your frontend and backend.
 
 ### Server Actions
 You can write server-side logic directly inside your React components. No need to set up separate API endpoints for simple things like form submissions.
