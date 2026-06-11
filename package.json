@@ -1,0 +1,32 @@
+{
+  "name": "death-legion-team",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "legion": "./bin/legion.js"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@swc/cli": "^0.8.1",
+    "@swc/core": "^1.15.41",
+    "@types/node": "^25.9.3",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "react-router-dom": "^7.17.0",
+    "typescript": "^6.0.3"
+  },
+  "devDependencies": {
+    "rolldown": "^1.1.1",
+    "vite": "^8.0.16"
+  }
+}
