@@ -10,10 +10,72 @@
     "build": "vite build",
     "preview": "vite preview"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "keywords": [
+    "legion-hyt-js",
+    "full-stack react framework",
+    "rust-powered tooling",
+    "rolldown",
+    "swc",
+    "ssg",
+    "ssr",
+    "csr",
+    "death legion team",
+    "fast build times",
+    "hot module replacement",
+    "web framework",
+    "javascript framework",
+    "react framework",
+    "performance",
+    "production-ready",
+    "blazingly fast",
+    "typescript",
+    "file-based routing",
+    "server actions",
+    "api routes",
+    "hybrid rendering",
+    "static site generation",
+    "server-side rendering",
+    "client-side rendering",
+    "full-stack development",
+    "web development",
+    "frontend framework",
+    "backend framework",
+    "node.js framework",
+    "vite",
+    "modern web development",
+    "enterprise framework",
+    "scalable framework",
+    "developer experience",
+    "dx",
+    "death legion",
+    "legion team",
+    "hyt js",
+    "legion hyt"
+  ],
+  "author": "Death Legion Team <team@deathlegion.dev>",
+  "license": "MIT",
+  "description": "Legion Hyt JS - A blazingly fast full-stack React framework powered by Rust-based tooling (Rolldown + SWC). Build production-grade applications with near-instant build times, hot module replacement, and flexible rendering strategies (SSG, SSR, CSR). Built by Death Legion Team.",
+  "homepage": "https://legion-hyt-js.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deathlegionteamlk/legion-hyt-js"
+  },
+  "bugs": {
+    "url": "https://github.com/deathlegionteamlk/legion-hyt-js/issues"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "files": [
+    "bin",
+    "src",
+    "docs",
+    "README.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "@swc/cli": "^0.8.1",
     "@swc/core": "^1.15.41",
